@@ -4,6 +4,8 @@ Can be used for reading the smart meter DSMR (Dutch Smart Meter Requirements) P1
 You will need a cable and hardware that can run Linux software. 
 **Free for non-commercial use**.*
 
+This project is forked from https://github.com/dsmrreader/dsmr-reader
+
 Note: this manual is still work in progress!
 
 # Instructions for installation on FreeBSD

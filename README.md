@@ -64,7 +64,10 @@ sudo -u dsmr -- sh -c "cd /usr/local/www/dsmr/; /usr/local/bin/bash"
 . .venv/bin/activate
 ```
 
-***Ensure that the shell looks like something like this: (.venv) [dsmr@hostname /usr/local/www/dsmr]$!***
+**Ensure that the shell looks like something like this:**
+```shell
+(.venv) [dsmr@hostname /usr/local/www/dsmr]$
+```
 
 ***Until mentioned otherwise, this should stay the case for all of the following instructions!***
 
@@ -257,7 +260,10 @@ sudo -u dsmr -- sh -c "cd /usr/local/www/dsmr/; /usr/local/bin/bash"
 . .venv/bin/activate
 ```
 
-***Ensure that the shell looks like something like this: (.venv) [dsmr@hostname /usr/local/www/dsmr]$!***
+**Ensure that the shell looks like something like this:**
+```shell
+(.venv) [dsmr@hostname /usr/local/www/dsmr]$
+```
 
 ***Until mentioned otherwise, this should stay the case for all of the following instructions!***
 
